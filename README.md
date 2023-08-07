@@ -1,4 +1,6 @@
 # Anime Searcher
+[Anime Searcher for Windows](https://github.com/Anton-Euro/anime-searcher#anime-searcher-for-windows) · [Anime Searcher for Android](https://github.com/Anton-Euro/anime-searcher#anime-searcher-for-android) · [Anime Searcher website](https://github.com/Anton-Euro/anime-searcher#anime-searcher-website)
+
 **Anime Searcher** is an application for searching anime and not only anime by frame.
 
 The frame search is based on [trace.moe](https://trace.moe/) and the output of anime information on the [Jikan API](https://jikan.moe/)
